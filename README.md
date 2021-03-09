@@ -9,13 +9,16 @@ I'm really into designing clear UX and bring it onto real world.
 
 Currently, I'm learning Cross-Device User interaction via Web / AR.
 
-B.S at Sungkyunkwan Univ, and now in M.S course in MOBED Lab, Yonsei Graduate Univ.
+B.Sc at College of Computing & Informatics, Sungkyunkwan Univ,
+
+Now M.Sc course in MOBED Lab, Department of Computer Science, Yonsei Graduate Univ.
+https://mobed.yonsei.ac.kr
 
 
 #### Tech Stack
-- **Language**: Kotlin, Java, Dart, Javascript, Typescript
+- **Language**: Kotlin, Java, Dart, Javascript, Typescript, Python
 
-- **FrameWork**: AndroidX, Flutter, React Native, React.js, Node.js, Three.js
+- **FrameWork**: AndroidX, Flutter, React Native, React.js, Node.js, AFRAME, Three.js
 
 - **Design Pattern**
   * MVVM & AAC & SAA with NavigationUI
