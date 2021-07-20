@@ -7,7 +7,7 @@ Hi, I'm Yeonwoo Cho(nick: Sio), mobilie front'end developer.
 
 I'm really into designing clear UX and bring it onto real world.
 
-Currently, I'm learning Cross-Device User interaction via Web / AR.
+Currently, I'm learning User Experience in Mobile Augmented Reality.
 
 B.Sc at College of Computing & Informatics, Sungkyunkwan Univ,
 
@@ -25,7 +25,16 @@ https://mobed.yonsei.ac.kr
   * MobX (for RN & Flutter)
 
 #### Experiences
-- TODO
+- '19.09 ~ '20.07 : Prography 5th Android Member, 6th Android Mentor
+- '19.09 ~ '20.01 : Prography team Hechemoyeo Android Developer
+- '19.11 ~ '20.07 : (주)소프트스퀘어드 Android Junior Developer
+- '20.01 ~ '20.07 : \[외주\] K-VISA Android Developer
+- '20.01 ~ '20.03 : MakeUs team Momentrip Flutter Developer
+- '20.03 ~ '20.07 : Prography team Lemoring Android Developer
+- '20.07 ~ '20.12 : (주)소프트스퀘어드 Android Senior Developer
+- '20.07 ~ '21.01 : (주)디어코퍼레이션 Mobile Front-end Developer Intern
+- '20.10 ~ '20.12 : \[외주\] Fingos Android Developer
+
 <!--
 **Ssioo/Ssioo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
