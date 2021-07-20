@@ -25,12 +25,12 @@ https://mobed.yonsei.ac.kr
   * MobX (for RN & Flutter)
 
 #### Experiences
-- '19.09 ~ '20.07 : Prography 5th Android Member, 6th Android Mentor
+- '19.09 ~ '21.07 : Prography 5th Android Member, 6th, 6.5th Android Mentor
 - '19.09 ~ '20.01 : Prography team Hechemoyeo Android Developer
 - '19.11 ~ '20.07 : (주)소프트스퀘어드 Android Junior Developer
 - '20.01 ~ '20.07 : \[외주\] K-VISA Android Developer
 - '20.01 ~ '20.03 : MakeUs team Momentrip Flutter Developer
-- '20.03 ~ '20.07 : Prography team Lemoring Android Developer
+- '20.03 ~ '21.01 : Prography team Lemoring Android Developer
 - '20.07 ~ '20.12 : (주)소프트스퀘어드 Android Senior Developer
 - '20.07 ~ '21.01 : (주)디어코퍼레이션 Mobile Front-end Developer Intern
 - '20.10 ~ '20.12 : \[외주\] Fingos Android Developer
