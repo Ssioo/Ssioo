@@ -3,13 +3,13 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSsioo%2FSsioo&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 #### Mobile Front-End Developer
-Hi, I'm Yeonwoo Cho(nick: Sio), mobilie front'end developer.
+🌱 Hi, I'm Yeonwoo Cho(nick: Sio), mobilie front'end developer.
 
-I'm really into designing clear UX and bring it onto real world.
+🌱 I'm really into designing clear UX and bring it onto real world.
 
-Currently, I'm learning User Experience in Mobile Augmented Reality.
+🌱Currently, I'm learning User Experience in Mobile Augmented Reality.
 
-B.Sc at College of Computing & Informatics, Sungkyunkwan Univ,
+🌱 B.Sc at College of Computing & Informatics, Sungkyunkwan Univ,
 
 <!--Now M.Sc course in MOBED Lab, Department of Computer Science, Yonsei Graduate Univ.
 https://mobed.yonsei.ac.kr-->
@@ -35,8 +35,9 @@ https://mobed.yonsei.ac.kr-->
 - '20.07 ~ '20.12 : (주)소프트스퀘어드 Android Senior Developer
 - '20.07 ~ '21.01 : (주)디어코퍼레이션 Mobile Front-end Developer Intern
 - '20.10 ~ '20.12 : [외주] Fingos Android Developer
-- ----------------: [외주] Danbi Corp. CashFi Web Front (React) & Mobile (React-Native) Developer
 - ----------------: Nanugi (SK Lookie 소속 팀) Web Developer
+- ----------------: [외주] Danbi Corp. CashFi Web Front (React) & Mobile (React-Native) Developer
+- ----------------: [외주] CleanRanking.Web Front (React) Publisher
 ```
 
 <!--
