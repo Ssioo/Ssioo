@@ -35,9 +35,9 @@ https://mobed.yonsei.ac.kr-->
 - '20.07 ~ '20.12 : (주)소프트스퀘어드 Android Senior Developer
 - '20.07 ~ '21.01 : (주)디어코퍼레이션 Mobile Front-end Developer Intern
 - '20.10 ~ '20.12 : [외주] Fingos Android Developer
-- ----------------: Nanugi (SK Lookie 소속 팀) Web Developer
-- ----------------: [외주] Danbi Corp. CashFi Web Front (React) & Mobile (React-Native) Developer
-- ----------------: [외주] CleanRanking.Web Front (React) Publisher
+- ----------------: Nanugi (SK Lookie 소속 Team) Web Front (React.ts) Developer
+- ----------------: [외주] Danbi Corp. CashFi Web Front (React.ts) & Mobile (React-Native) Developer
+- ----------------: [외주] CleanRanking. Web Front (React.ts) Publisher
 ```
 
 <!--
