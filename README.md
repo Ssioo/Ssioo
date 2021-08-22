@@ -38,6 +38,7 @@ https://mobed.yonsei.ac.kr-->
 - ----------------: Nanugi (SK Lookie 소속 Team) Web Front (React.ts) Developer
 - ----------------: [외주] Danbi Corp. CashFi Web Front (React.ts) & Mobile (React-Native) Developer
 - ----------------: [외주] CleanRanking. Web Front (React.ts) Publisher
+- ----------------: [외주] Alim. Web ERP (React.js, Node.js) Front & Back Developer
 ```
 
 <!--
