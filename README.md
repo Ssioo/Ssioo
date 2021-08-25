@@ -24,6 +24,9 @@ https://mobed.yonsei.ac.kr-->
   * MVVM & AAC & SAA with NavigationUI
   * MobX (for RN & Flutter)
 
+[![Ssioo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ssioo)](https://github.com/anuraghazra/github-readme-stats)
+
+
 #### Experiences
 ```
 - '19.09 ~ '21.01 : Prography 5th Android Member, 6th, 6.5th Android Mentor
