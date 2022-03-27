@@ -3,16 +3,17 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSsioo%2FSsioo&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 #### Mobile Front-End Developer
-🌱 Hi, I'm Yeonwoo Cho(nick: Sio), mobilie front'end developer.
+🌱 Hi, I'm Yeonwoo Cho(nick: Sio), mobile front'end developer.
 
 🌱 I'm really into designing clear UX and bring it onto real world.
 
-🌱Currently, I'm learning User Experience in Mobile Augmented Reality.
+🌱 2021, I'm learning User Experience in Mobile Augmented Reality.
+
+🌱 2022, I'm learning Efficient Video Super Resolution especially for Smartphones.
 
 🌱 B.Sc at College of Computing & Informatics, Sungkyunkwan Univ,
-
-<!--Now M.Sc course in MOBED Lab, Department of Computer Science, Yonsei Graduate Univ.
-https://mobed.yonsei.ac.kr-->
+Now M.Sc course in MOBED Lab, Department of Computer Science, Yonsei Graduate Univ.
+https://mobed.yonsei.ac.kr
 
 
 #### Tech Stack
@@ -37,7 +38,8 @@ https://mobed.yonsei.ac.kr-->
 <span><img src="https://img.shields.io/badge/Three.js-000000?style=flat&logo=Three.js&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/SwiftUI-FA7343?style=flat&logo=Swift&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat&logo=Tensorflow&logoColor=white"/></span>
- <span><img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/Pytorch-FF6F00?style=flat&logo=Pytorch&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white"/></span>
  
 - **Design Pattern**
   * MVVM & AAC & SAA with NavigationUI
@@ -61,6 +63,8 @@ https://mobed.yonsei.ac.kr-->
 - ----------------: [외주] Danbi Corp. CashFi Web Front (React.ts) & Mobile (React-Native) Developer
 - ----------------: [외주] CleanRanking. Web Front (React.ts) Publisher
 - ----------------: [외주] Alim. Web ERP (React.js, Node.js) Front & Back Developer
+- ----------------: [외주] CJ E&M Show me the money 10 Event Page (React.js, Node.js) MBTI Test Front & Back Develop
+- ----------------: [외주] 우정사업본부 2021 대한민국우표전시회 Event Page (React.ts, Node.ts) (나와 맞는 동물은?) Front & Back Develop
 ```
 
 <!--
