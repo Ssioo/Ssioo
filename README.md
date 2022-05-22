@@ -3,7 +3,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSsioo%2FSsioo&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 #### Mobile Front-End Developer
-🌱 Hi, I'm Yeonwoo Cho(nick: Sio), mobile front'end developer.
+🌱 Hi, I'm Yeonwoo Cho(nick: Sio), mobile front-end developer.
 
 🌱 I'm really into designing clear UX and bring it onto real world.
 
@@ -12,7 +12,7 @@
 🌱 2022, I'm learning Efficient Video Super Resolution especially for Smartphones.
 
 🌱 B.Sc at College of Computing & Informatics, Sungkyunkwan Univ,
-Now M.Sc course in MOBED Lab, Department of Computer Science, Yonsei Graduate Univ.
+Now M.Sc course in MOBED Lab, College of Computing, Yonsei Graduate Univ.
 https://mobed.yonsei.ac.kr
 
 
@@ -59,12 +59,12 @@ https://mobed.yonsei.ac.kr
 - '20.07 ~ '20.12 : (주)소프트스퀘어드 Android Senior Developer
 - '20.07 ~ '21.01 : (주)디어코퍼레이션 Mobile Front-end Developer Intern
 - '20.10 ~ '20.12 : [외주] Fingos Android Developer
-- ----------------: Nanugi (SK Lookie 소속 Team) Web Front (React.ts) Developer
-- ----------------: [외주] Danbi Corp. CashFi Web Front (React.ts) & Mobile (React-Native) Developer
-- ----------------: [외주] CleanRanking. Web Front (React.ts) Publisher
-- ----------------: [외주] Alim. Web ERP (React.js, Node.js) Front & Back Developer
-- ----------------: [외주] CJ E&M Show me the money 10 Event Page (React.js, Node.js) MBTI Test Front & Back Develop
-- ----------------: [외주] 우정사업본부 2021 대한민국우표전시회 Event Page (React.ts, Node.ts) (나와 맞는 동물은?) Front & Back Develop
+- '21.01 ~ '21.04 : Nanugi (SK Lookie 소속 Team) Web Front (React.ts) Developer
+- '21.06 ~ '21.07 : [외주] Danbi Corp. CashFi Web Front (React.ts) & Mobile (React-Native) Developer
+- '21.08 ~ '21.11 : [외주] CleanRanking. Web Front (React.ts) Publisher
+- '21.09 ~ '21.12 : [외주] Alim. Web ERP (React.js, Node.js) Front & Back Developer
+- '21.10 ~ '21.11 : [외주] CJ E&M Show me the money 10 Event Page (React.js, Node.js) MBTI Test Front & Back Develop
+- '21.11 ~ '21.12 : [외주] 우정사업본부 2021 대한민국우표전시회 Event Page (React.ts, Node.ts) (나와 맞는 동물은?) Front & Back Develop
 ```
 
 <!--
