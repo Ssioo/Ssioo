@@ -28,6 +28,7 @@ https://mobed.yonsei.ac.kr
 <span><img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=Sass&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/jinja-B41717?style=flat&logo=jinja&logoColor=white"/></span>
 
 - **FrameWork**: \
 <span><img src="https://img.shields.io/badge/AndroidX-3DDC84?style=flat&logo=Android&logoColor=white"/></span>
@@ -38,7 +39,7 @@ https://mobed.yonsei.ac.kr
 <span><img src="https://img.shields.io/badge/Three.js-000000?style=flat&logo=Three.js&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/SwiftUI-FA7343?style=flat&logo=Swift&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat&logo=Tensorflow&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/Pytorch-FF6F00?style=flat&logo=Pytorch&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat&logo=Pytorch&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white"/></span>
  
 - **Design Pattern**
