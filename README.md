@@ -61,7 +61,10 @@ https://mobed.yonsei.ac.kr
 <span><img src="https://img.shields.io/badge/WebStorm-000000?style=flat&logo=WebStorm&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/DataGrip-000000?style=flat&logo=DataGrip&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat&logo=Android Studio&logoColor=white"/></span>
+  * **Xcode** \
 <span><img src="https://img.shields.io/badge/Xcode-147EFB?style=flat&logo=Xcode&logoColor=white"/></span>
+  * **Jupyter** \
+<span><img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white"/></span>
  
 - **Design Pattern**
   * MVVM & AAC & SAA with NavigationUI
