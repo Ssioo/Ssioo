@@ -25,6 +25,7 @@ https://mobed.yonsei.ac.kr
 <span><img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=Javascript&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Typescript-3178C6?style=flat&logo=Typescript&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Python-3776AB?style=flate&logo=Python&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/PyScript-3776AB?style=flat&logo=Python&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Swift-FA7343?style=flat&logo=Swift&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/></span>
   * **MarkDown Side** \
@@ -54,12 +55,13 @@ https://mobed.yonsei.ac.kr
 <span><img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat&logo=Pytorch&logoColor=white"/></span>
  
 
-- **Loving IDEs**: \
+- **Loving IDEs**:
+  * **JetBrains** \
 <span><img src="https://img.shields.io/badge/PyCharm-000000?style=flat&logo=PyCharm&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/WebStorm-000000?style=flat&logo=WebStorm&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/DataGrip-000000?style=flat&logo=DataGrip&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat&logo=Android Studio&logoColor=white"/></span>
-
+<span><img src="https://img.shields.io/badge/Xcode-147EFB?style=flat&logo=Xcode&logoColor=white"/></span>
  
 - **Design Pattern**
   * MVVM & AAC & SAA with NavigationUI
