@@ -31,6 +31,7 @@ https://mobed.yonsei.ac.kr
 <span><img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=Sass&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"/></span>
  <span><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/></span>
+ <span><img src="https://img.shields.io/badge/JSS-F7DF1E?style=flat&logo=JSS&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/jinja-B41717?style=flat&logo=jinja&logoColor=white"/></span>
 
 - **FrameWork**: 
@@ -51,7 +52,13 @@ https://mobed.yonsei.ac.kr
   * **ML Side** \
 <span><img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat&logo=Tensorflow&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat&logo=Pytorch&logoColor=white"/></span>
+ 
 
+- **Loving IDEs**: \
+<span><img src="https://img.shields.io/badge/PyCharm-000000?style=flat&logo=PyCharm&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/WebStorm-000000?style=flat&logo=WebStorm&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/DataGrip-000000?style=flat&logo=DataGrip&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat&logo=Android Studio&logoColor=white"/></span>
 
  
 - **Design Pattern**
