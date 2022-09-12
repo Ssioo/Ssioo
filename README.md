@@ -29,6 +29,9 @@ https://mobed.yonsei.ac.kr
 <span><img src="https://img.shields.io/badge/Swift-FA7343?style=flat&logo=Swift&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/jinja-B41717?style=flat&logo=jinja&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=Cplusplus&logoColor=white"/></span>
+
 
   * **MarkDown Side** \
 <span><img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=Sass&logoColor=white"/></span>
@@ -42,6 +45,7 @@ https://mobed.yonsei.ac.kr
 <span><img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Flutter&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/ReactNative-61DAFB?style=flat&logo=React&logoColor=blue"/></span>
 <span><img src="https://img.shields.io/badge/SwiftUI-FA7343?style=flat&logo=Swift&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/OpenGL-5586A4?style=flat&logo=OpenGL&logoColor=white"/></span>
  
   * **Front-End Side** \
 <span><img src="https://img.shields.io/badge/React.js-61DAFB?style=flat&logo=React&logoColor=blue"/></span>
@@ -59,18 +63,15 @@ https://mobed.yonsei.ac.kr
 <span><img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat&logo=Pytorch&logoColor=white"/></span>
  
 
-- **Loving IDEs**:
-  * **JetBrains** \
+- **Loving Tools**: \
 <span><img src="https://img.shields.io/badge/PyCharm-000000?style=flat&logo=PyCharm&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/WebStorm-000000?style=flat&logo=WebStorm&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/DataGrip-000000?style=flat&logo=DataGrip&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat&logo=Android Studio&logoColor=white"/></span>
- 
-  * **Xcode** \
 <span><img src="https://img.shields.io/badge/Xcode-147EFB?style=flat&logo=Xcode&logoColor=white"/></span>
- 
-  * **Jupyter** \
 <span><img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/GitKraken-179287?style=flat&logo=GitKraken&logoColor=white"/></span>
+
  
 - **Design Pattern**
   * MVVM & AAC & SAA with NavigationUI
