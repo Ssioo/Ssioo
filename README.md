@@ -43,6 +43,7 @@ https://mobed.yonsei.ac.kr
 - **FrameWork**: 
   * **Mobile Side** \
 <span><img src="https://img.shields.io/badge/AndroidX-3DDC84?style=flat&logo=Android&logoColor=white"/></span>
+  <span><img src="https://img.shields.io/badge/NDK-3DDC84?style=flat&logo=Android&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Flutter&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/ReactNative-61DAFB?style=flat&logo=React&logoColor=blue"/></span>
 <span><img src="https://img.shields.io/badge/SwiftUI-FA7343?style=flat&logo=Swift&logoColor=white"/></span>
