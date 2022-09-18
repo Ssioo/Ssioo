@@ -3,16 +3,17 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSsioo%2FSsioo&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 #### Mobile Front-End Developer
-🌱 Hi, I'm Yeonwoo Cho(nick: Sio), mobile front-end developer.
+🌱 Hi, I'm Yeonwoo Cho(nick: Sio), developer. (now I'm not sure i'm engineer or researcher)
 
-🌱 I'm really into designing clear UX and bring it onto real world.
+🌱 I'm really into designing interesting IDEAs and bring them onto real world. \
+  especially for Mobile App UX | Computer Vision ML
 
 🌱 2021, I'm learning User Experience in Mobile Augmented Reality.
 
 🌱 2022, I'm learning Efficient Video Super Resolution especially for Smartphones.
 
 🌱 B.Sc at College of Computing & Informatics, Sungkyunkwan Univ, \
-Now M.Sc course in MOBED Lab, College of Computing, Yonsei Graduate Univ.
+Now M.Sc course in Mobile Embedded System (MOBED) Lab, College of Computing, Yonsei Graduate Univ.
 https://mobed.yonsei.ac.kr
 
 
@@ -74,8 +75,10 @@ https://mobed.yonsei.ac.kr
 
  
 - **Design Pattern**
-  * MVVM & AAC & SAA with NavigationUI
+  * MVVM & AAC & SAA with NavigationUI (for Android)
   * MobX (for RN & Flutter)
+  * TDD (for Python)
+  * Head Against the wall (for C/C++)
 
 [![Ssioo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ssioo)](https://github.com/anuraghazra/github-readme-stats)
 
