@@ -16,6 +16,9 @@
 Now M.Sc course in Mobile Embedded System (MOBED) Lab, College of Computing, Yonsei Graduate Univ.
 https://mobed.yonsei.ac.kr
 
+🌱 From 2023, I'm working at Chips&Media. Inc., as a researcher in the Algorithm R&D team. \
+In detail, I am providing a software modeling of Video Codecs such as H.264, HEVC, VVC, AV1, or etc.
+
 
 #### Tech Stack
 - **Language**: 
@@ -31,7 +34,10 @@ https://mobed.yonsei.ac.kr
 <span><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/jinja-B41717?style=flat&logo=jinja&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=Cplusplus&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/C++11-00599C?style=flat&logo=Cplusplus&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/C++17-00599C?style=flat&logo=Cplusplus&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/C++20-00599C?style=flat&logo=Cplusplus&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white"/></span>
 
 
   * **MarkDown Side** \
@@ -52,13 +58,14 @@ https://mobed.yonsei.ac.kr
   * **Front-End Side** \
 <span><img src="https://img.shields.io/badge/React.js-61DAFB?style=flat&logo=React&logoColor=blue"/></span>
 <span><img src="https://img.shields.io/badge/Three.js-000000?style=flat&logo=Three.js&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white"/></span>
  
   * **Server Side** \
 <span><img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white"/></span>
- <span><img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=PHP&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=PHP&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=Flask&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/></span>
  
   * **ML Side** \
 <span><img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat&logo=Tensorflow&logoColor=white"/></span>
@@ -66,6 +73,7 @@ https://mobed.yonsei.ac.kr
  
 
 - **Loving Tools**: \
+<span><img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/PyCharm-000000?style=flat&logo=PyCharm&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/WebStorm-000000?style=flat&logo=WebStorm&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/DataGrip-000000?style=flat&logo=DataGrip&logoColor=white"/></span>
@@ -101,6 +109,7 @@ https://mobed.yonsei.ac.kr
 - '21.09 ~ '21.12 : [외주] Alim. Web ERP (React.js, Node.js) Front & Back Developer
 - '21.10 ~ '21.11 : [외주] CJ E&M Show me the money 10 Event Page (React.js, Node.js) MBTI Test Front & Back Develop
 - '21.11 ~ '21.12 : [외주] 우정사업본부 2021 대한민국우표전시회 Event Page (React.ts, Node.ts) (나와 맞는 동물은?) Front & Back Develop
+- '23.01 ~        : (주) 칩스앤미디어 Algorithm팀 연구원
 ```
 
 <!--
